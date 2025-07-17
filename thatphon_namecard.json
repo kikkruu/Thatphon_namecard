@@ -1,4 +1,5 @@
-{
+[
+        {
         "name":"Mr Phongsakon Doungpanya",
         "title":" Back-end",
         "phone":"📞 +66 689 754 421",
@@ -16,7 +17,8 @@
          "name":"Mr Tanus Kumpitak",
         "title":" Web Developer",
         "phone":"📞  +66 987 654 321",
-        "email":"✉️ Tanus@ku.th"
+        "email":"✉️ Tanus@ku.th",
          "image":"https://raw.githubusercontent.com/kikkruu/Thatphon_namecard/refs/heads/main/tanus.jpg"
         
 }
+]
